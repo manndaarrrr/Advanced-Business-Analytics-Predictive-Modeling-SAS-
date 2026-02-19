@@ -1,4 +1,4 @@
-#SAS Analytics Portfolio: Statistical Modeling & Business Case Analysis
+SAS Analytics Portfolio: Statistical Modeling & Business Case Analysis
 Overview
 This repository contains the SAS code, presentation materials, and technical methodologies for a comprehensive data analytics group project. The project applies statistical testing, regression modeling, and risk analysis to solve four distinct business cases across the retail, real estate, insurance, and financial sectors.
 
